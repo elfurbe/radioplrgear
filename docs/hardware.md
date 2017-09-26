@@ -9,16 +9,16 @@ Generally speaking, a mixer will allow you to control the relative volume of dif
 ## Analog Mixers
 This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on audio cables. All mixing is done in the analog domain and digitizing the output is your problem to solve with an [interface](#interfaces). Pure analog mixers are less common now at the lower end of the price spectrum, but there are still purists that will accept nothing less, one of which is noted pedantic dbag ElFurbe. Things to concern yourself with on an analog mixer:
  - Input and output types/channels:
-  - How many microphones do you need to run at once?
-  - What other sources do you need to bring in/out?
-  - How will your digital [interface](#interfaces) connect?
+   - How many microphones do you need to run at once?
+   - What other sources do you need to bring in/out?
+   - How will your digital [interface](#interfaces) connect?
  - Quality of microphone pre-amps
-  - Does your microphone require phantom power?
-  - Does your microphone require high input gain?
-  - Does the pre-amp color the sound at all?
+   - Does your microphone require phantom power?
+   - Does your microphone require high input gain?
+   - Does the pre-amp color the sound at all?
  - Ergonomics of controls
-  - Are the controls you definitely need available?
-  - Are the controls you need easy to find and operate?
+   - Are the controls you definitely need available?
+   - Are the controls you need easy to find and operate?
 
 #### Current Model Products
 
