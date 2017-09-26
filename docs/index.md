@@ -2,4 +2,6 @@ The great #radio gear document was lost to the fires of Slack and so we're start
 
 An attempt at organization:
   - [hardware](hardware.md)
+    - [mixers](hardware.md#mixers)
+    - [interfaces](hardware.md#interfaces)
   - [software](software.md)
