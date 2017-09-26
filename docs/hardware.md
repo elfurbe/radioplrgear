@@ -24,6 +24,7 @@ This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on 
 
 ##### Behringer 502 (~$40)
 ![Behringer 502](https://media.music-group.com/media/PLM/data/images/products/P0576/1800Wx1800H/502_P0576_Right_L.png?)
+
 [Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) |
 [Amazon](https://smile.amazon.com/Behringer-502-BEHRINGER-XENYX/dp/B000J5UEGQ) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-502-Mixer.gc)
 
