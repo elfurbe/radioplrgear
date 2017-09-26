@@ -24,7 +24,8 @@ This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on 
 
 ##### Behringer 502
 ![Behringer 502](https://media.music-group.com/media/PLM/data/images/products/P0576/1800Wx1800H/502_P0576_Right_L.png?)
-http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576
+[Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) |
+[Amazon](https://smile.amazon.com/Behringer-502-BEHRINGER-XENYX/dp/B000J5UEGQ) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-502-Mixer.gc)
 
 AKA The Bare Minimum. One mic input, all knobs, low complication. At this control level you're probably able to do what you need to do with just an [interface](#interfaces), but maybe you want this anyway to keep the mixing separate. Several Radio PLR DJs use this mixer or its slightly larger brethren ([802](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/802/p/P0575), [1202](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/1202/p/P0573), etc). The only difference is more inputs.
 
@@ -32,7 +33,8 @@ ElFurbe's Editorial: I find the sound of Behringer Xenyx microphone pre-amps abh
 
 ##### Mackie ProFX4v2
 ![Mackie ProFX4v2](https://images-na.ssl-images-amazon.com/images/I/91xjLU2FcDL._SL1500_.jpg)
-http://mackie.com/products/profxv2-series
+
+[Product Family Page](http://mackie.com/products/profxv2-series) | [Amazon](https://smile.amazon.com/Mackie-PROFX4V2-4-Channel-Compact-Effects/dp/B00VUU702A/) | [Guitar Center](http://www.guitarcenter.com/Mackie/ProFX4v2-4-Channel-Professional-FX-Mixer.gc)
 
 Mackie. They're a big name, particularly in gigging/travel gear. They're known to be tough and you'll find plenty of road audio techs that swear by them. The ProFX4v2 is the entry level model and essentially comparable to the Behringer 802 in every important way.
 
@@ -40,14 +42,18 @@ ElFurbe's Editorial: Mackie ProFX pre-amps are great. They're not as good as Mac
 
 ##### Alto ZMX52
 ![Alto ZMX52](https://www.altoproaudio.com/images/products/ZMX52_ANGLE_WEB.jpg)
-https://www.altoproaudio.com/products/zmx52
+
+[Product Page](https://www.altoproaudio.com/products/zmx52) | [Amazon](https://smile.amazon.com/Alto-Professional-ZMX52-5-Channel-Channel/dp/B004TM31QK/) | [Guitar Center](http://www.guitarcenter.com/Alto/Zephyr-Series-ZMX52-5-Channel-Compact-Mixer.gc)
+
 
 Alto is a name you won't hear as much as Behringer or Mackie, but many audio professionals would recognize it. The ZMX52 is comparable to the Behringer [502](#behringer-502) above. The [ZMX862](ZMXhttps://www.altoproaudio.com/products/zmx862) is the next step up, comparable to the Mackie [ProFX4v2](#mackie-profx4v2) or the Behringer 802.
 
 ElFurbe's Editorial: Alto's pre-amps are sublime. The gain adjustment was a little skewed low so I had to really crank it up to get good levels out of my mic, but even in that scenario the channel was jet black. I had one of Alto's larger [hybrids](#hybrid-mixers) for a test run at home and the analog audio quality was fantastic. The controls were great, the feel was great, it was all great. Their built-in USB interface, much like all built-in USB interfaces at this price-tier, was a real garbage fire. I have no doubt these smaller mixers without the USB hardware will sound magnificent. I almost talked myself into keeping the Alto board and adding another audio interface, but I got indignant about their lack of fucks given to the digital interface and decided they could go straight to hell.
 
 ##### Soundcraft EPM8
-![Soundcraft EPM8](https://adn.harmanpro.com/product_attachments/product_attachments/1985_1422315863/EPM8-Top_original.jpg) https://www.soundcraft.com/en/products/epm8
+![Soundcraft EPM8](https://adn.harmanpro.com/product_attachments/product_attachments/1985_1422315863/EPM8-Top_original.jpg)
+
+[Product Page](https://www.soundcraft.com/en/products/epm8) | [Amazon](https://smile.amazon.com/Soundcraft-High-Performance-8-channel-Audio-Mixer/dp/B003TSEFKG/) | [Guitar Center](http://www.guitarcenter.com/Soundcraft/EPM8-8-Channel-Multi-format-Mixer.gc)
 
 Soundcraft is a brand you would see in a professional radio booth. Their history is long, their reputation is stellar, their quality is top notch and their faders feel sublime. The smallest all-analog mixer Soundcraft makes is the EPM8, but you're still getting all the good things about a Soundcraft analog mixer in a small package.
 
