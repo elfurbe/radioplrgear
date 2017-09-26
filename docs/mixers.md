@@ -1,17 +1,13 @@
-  - [mixers](#mixers)
-  - [interfaces](#interfaces)
-  - [microphones](#microphones)
-  - [headphones](#headphones)
 
 # Mixers
 Generally speaking, a mixer will allow you to control the relative volume of different audio sources and output the combined signal. They come in a few flavors. The traditional [all-analog mixer](#analog-mixers), digital-analog [hybrid mixers](#hybrid-mixers), and pure [digital mixers](#digital-mixers). This section is specifically about mixers with dedicated hardware for mix control. You can find pure software mixers in the [software](software.md) section. All mixers will have some number of inputs and outputs, often some number of send/receive loops for off-board processing and some sort of controls in the form of faders and knobs to adjust various properties of the sound.
 
 ## Analog Mixers
-This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on audio cables. All mixing is done in the analog domain and digitizing the output is your problem to solve with an [interface](#interfaces). Pure analog mixers are less common now at the lower end of the price spectrum, but there are still purists that will accept nothing less, one of which is noted pedantic dbag ElFurbe. Things to concern yourself with on an analog mixer:
+This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on audio cables. All mixing is done in the analog domain and digitizing the output is your problem to solve with an [interface](interfaces.md). Pure analog mixers are less common now at the lower end of the price spectrum, but there are still purists that will accept nothing less, one of which is noted pedantic dbag ElFurbe. Things to concern yourself with on an analog mixer:
  - Input and output types/channels:
    - How many microphones do you need to run at once?
    - What other sources do you need to bring in/out?
-   - How will your digital [interface](#interfaces) connect?
+   - How will your digital [interface](interfaces.md) connect?
  - Quality of microphone pre-amps
    - Does your microphone require phantom power?
    - Does your microphone require high input gain?
@@ -28,9 +24,9 @@ This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on 
 [Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) |
 [Amazon](https://smile.amazon.com/Behringer-502-BEHRINGER-XENYX/dp/B000J5UEGQ) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-502-Mixer.gc)
 
-AKA The Bare Minimum. One mic input, all knobs, low complication. At this control level you're probably able to do what you need to do with just an [interface](#interfaces), but maybe you want this anyway to keep the mixing separate. Several Radio PLR DJs use this mixer or its slightly larger brethren ([802](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/802/p/P0575), [1202](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/1202/p/P0573), etc). The only difference is more inputs.
+AKA The Bare Minimum. One mic input, all knobs, low complication. At this control level you're probably able to do what you need to do with just an [interface](interfaces.md), but maybe you want this anyway to keep the mixing separate. Several Radio PLR DJs use this mixer or its slightly larger brethren ([802](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/802/p/P0575), [1202](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/1202/p/P0573), etc). The only difference is more inputs.
 
-ElFurbe's Editorial: I find the sound of Behringer Xenyx microphone pre-amps abhorrent. They have what Behringer refers to as a "vintage British" sound which seems to mean "muddy, noisy, and mid-range spiked". I tried one of Behringer's [hybrids](#hybrid-mixers) personally, and in addition to finding the integrated audio [interface](#interfaces) a real nightmare and the build quality a little plasticky for my taste, the pre-amps were hellish. I have a lower-end but good quality [microphone](#microphones) and by the time I got enough gain out of it on the board, the noise floor was intolerable; I was recording more hiss than signal. Now, what's important to keep in mind is that I'm literally the worst, picky about everything and on the whole striving for a level of quality that no one reasonable would care about. Will this mixer allow you to plug in a microphone and output the noises you make into that microphone out to something else: yes. It definitely will. Should you probably spend the extra $10 and get the Alto? Yes, you definitely should.
+ElFurbe's Editorial: I find the sound of Behringer Xenyx microphone pre-amps abhorrent. They have what Behringer refers to as a "vintage British" sound which seems to mean "muddy, noisy, and mid-range spiked". I tried one of Behringer's [hybrids](#hybrid-mixers) personally, and in addition to finding the integrated audio [interface](interfaces.md) a real nightmare and the build quality a little plasticky for my taste, the pre-amps were hellish. I have a lower-end but good quality [microphone](#microphones) and by the time I got enough gain out of it on the board, the noise floor was intolerable; I was recording more hiss than signal. Now, what's important to keep in mind is that I'm literally the worst, picky about everything and on the whole striving for a level of quality that no one reasonable would care about. Will this mixer allow you to plug in a microphone and output the noises you make into that microphone out to something else: yes. It definitely will. Should you probably spend the extra $10 and get the Alto? Yes, you definitely should.
 
 ##### Alto Professional ZMX52 (~$50)
 ![Alto ZMX52](https://www.altoproaudio.com/images/products/ZMX52_ANGLE_WEB.jpg)
@@ -67,7 +63,7 @@ Mackie's step-up line from the ProFX series is the Onyx. This is a line still in
 ElFurbe's Editorial: I specifically added this section because this is exactly what I did. I bought a used [Onyx 1220](http://www.musiciansfriend.com/pro-audio/mackie-onyx-1220-12-channel-mixer) from eBay from a seller with a solid reputation. The board was taken out of an installation in a church when they did renovation to their audio equipment and it was in pristine condition. I paid ~$175 for it. It is huge, it is overkill of the highest order, it was the wrong choice in every practical sense and I love it with my whole body. Onyx pres are choice as hell, the entire board feels like it means business and the sound quality I get out of it is banana pancakes good. Should you do this? Almost certainly no. Am I happy with it, oh hells yes.
 
 ## Hybrid Mixers
-These are generally analog mixers with built-in digital audio interfaces. The quality of the digital interface is probably lower-end, and in most cases you'd be better off buying a standalone [interface](#interfaces), but maybe you just really want the ostensible convenience of an AIO solution. These are your option.
+These are generally analog mixers with built-in digital audio interfaces. The quality of the digital interface is probably lower-end, and in most cases you'd be better off buying a standalone [interface](interfaces.md), but maybe you just really want the ostensible convenience of an AIO solution. These are your option.
 
 **A thing to keep in mind:** In almost all the cases below, you cannot both send audio from and then record that audio back into the computer, the USB interfaces are specifically designed to prevent that. This is a problem if you're trying to play music and broadcast from the same computer. I (ElFurbe) gave up on hybrids entirely due to this limitation. Depending on your setup, you could make this work, but I was not willing to faff about in this way.
 
