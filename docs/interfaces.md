@@ -15,7 +15,7 @@ Things to concern yourself with in a USB interface:
 #### Current Model products
 
 ##### Focusrite Scarlett 2i2 (~$150)
-![Focusrite Scarlett 2i2](https://us.focusrite.com/sites/default/files/resources/image/Scarlett-2i2_front-elevated.jpg)
+![Focusrite Scarlett 2i2](https://us.focusrite.com/sites/default/files/resources/image/Scarlett-2i2_front-elevated.jpg){:width="400px"}
 
 [Product Page](https://us.focusrite.com/usb-audio-interfaces/scarlett-2i2) | [Amazon](https://smile.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56EA) | [Guitar Center](http://www.guitarcenter.com/Focusrite/Scarlett-2i2-2nd-Generation-USB-Audio-Interface.gc)
 
@@ -24,7 +24,7 @@ Focusrite is the player to beat in the USB interface world. They have rapidly be
 ElFurbe Says: I should've gotten this. I didn't, but I should have. It is better in every way than the thing I got, except the inputs are in the front and I wanted them in the back. I gave up a lot on paper to get that ergonomic itch scratched, but I do what I want. You should not do what I did, you should buy this. I am not even kidding, everything else on this page is pretty much an also-ran. There is a slightly lower-end version of this called the [Solo](https://smile.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56CM) that may be adequate if you only need one microphone and nothing else. I started with one but it's not as flexible as the 2i2 and I outgrew it when I went to my mixer. It's worth considering, but the 2i2 is a better bet long-term.
 
 ##### PreSonus AudioBox 22VSL (~$140)
-![PreSonus AudioBox 22VSL](https://www-media-presonus.netdna-ssl.com/uploads/products/media/images/audiobox22vsl-front_copy_big.jpg)
+![PreSonus AudioBox 22VSL](https://www-media-presonus.netdna-ssl.com/uploads/products/media/images/audiobox22vsl-front_copy_big.jpg){:width="400px"}
 
 [Product Page](https://www.presonus.com/products/audiobox-22VSL) | [Amazon](https://smile.amazon.com/Presonus-AudioBox-22VSL-24-Bit-Interface/dp/B005G6CZRE) | [Guitar Center](http://www.guitarcenter.com/Presonus/Audiobox-22VSL-USB-20-Recording-System-1314230540378.gc)
 
@@ -33,7 +33,7 @@ You will find some audiophile in any professional setting that thinks PreSonus i
 ElFurbe Says: Don't save $10 to get this instead of the Focusrite. Just get the Focusrite.
 
 ##### M-Audio M-Track 2X2M (~$150)
-![M-Audio M-Track 2X2M](http://www.m-audio.com/assets/images/microsite/m-track2x2M/features/2.jpg)
+![M-Audio M-Track 2X2M](http://www.m-audio.com/assets/images/microsite/m-track2x2M/features/2.jpg){:width="400px"}
 
 [Product Page](http://m-audio.com/m-tracks/2x2m) | [Amazon](https://smile.amazon.com/M-Audio-M-Track-2X2-Interface-24-bit/dp/B01FFH5YTO/) | [Guitar Center](http://www.guitarcenter.com/M-Audio/M-Track-C-Series-2x2M-USB-MIDI-Interface.gc)
 
@@ -42,7 +42,7 @@ M-Audio has long been a favorite of digital musicians as they were very early to
 ElFurbe Says: Don't fucking buy this. Buy the god damned Focusrite. Why are you still reading, just buy the Focusrite.
 
 ##### Mackie Onyx Blackjack (~$100)
-![Mackie Onyx Blackjack](https://www.thomann.de/pics/bdb/252197/8692974_800.jpg)
+![Mackie Onyx Blackjack](https://www.thomann.de/pics/bdb/252197/8692974_800.jpg){:width="400px"}
 
 [Product Page](http://mackie.com/products/onyx-blackjack) | [Amazon](https://smile.amazon.com/Mackie-Onyx-Blackjack-Recording-Interface/dp/B003VZG550/)
 

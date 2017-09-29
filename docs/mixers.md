@@ -18,7 +18,7 @@ This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on 
 #### Current Model Products
 
 ##### Behringer 502 (~$40)
-![Behringer 502](https://media.music-group.com/media/PLM/data/images/products/P0576/1800Wx1800H/502_P0576_Right_L.png?)
+![Behringer 502](https://media.music-group.com/media/PLM/data/images/products/P0576/1800Wx1800H/502_P0576_Right_L.png?){:width="400px"}
 
 [Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) | [Amazon](https://smile.amazon.com/Behringer-502-BEHRINGER-XENYX/dp/B000J5UEGQ) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-502-Mixer.gc)
 
@@ -27,7 +27,7 @@ AKA The Bare Minimum. One mic input, all knobs, low complication. At this contro
 ElFurbe's Editorial: I find the sound of Behringer Xenyx microphone pre-amps abhorrent. They have what Behringer refers to as a "vintage British" sound which seems to mean "muddy, noisy, and mid-range spiked". I tried one of Behringer's [hybrids](#hybrid-mixers) personally, and in addition to finding the integrated audio [interface](interfaces.md) a real nightmare and the build quality a little plasticky for my taste, the pre-amps were hellish. I have a lower-end but good quality [microphone](#microphones) and by the time I got enough gain out of it on the board, the noise floor was intolerable; I was recording more hiss than signal. Now, what's important to keep in mind is that I'm literally the worst, picky about everything and on the whole striving for a level of quality that no one reasonable would care about. Will this mixer allow you to plug in a microphone and output the noises you make into that microphone out to something else: yes. It definitely will. Should you probably spend the extra $10 and get the Alto? Yes, you definitely should.
 
 ##### Alto Professional ZMX52 (~$50)
-![Alto ZMX52](https://www.altoproaudio.com/images/products/ZMX52_ANGLE_WEB.jpg)
+![Alto ZMX52](https://www.altoproaudio.com/images/products/ZMX52_ANGLE_WEB.jpg){:width="400px"}
 
 [Product Page](https://www.altoproaudio.com/products/zmx52) | [Amazon](https://smile.amazon.com/Alto-Professional-ZMX52-5-Channel-Channel/dp/B004TM31QK/) | [Guitar Center](http://www.guitarcenter.com/Alto/Zephyr-Series-ZMX52-5-Channel-Compact-Mixer.gc)
 
@@ -36,7 +36,7 @@ Alto is a name you won't hear as much as Behringer or Mackie, but many audio pro
 ElFurbe's Editorial: Alto's pre-amps are sublime in the Live series, I have no reason to suspect these are any worse. I had one of Alto's larger [hybrids](#hybrid-mixers) for a test run at home and the analog audio quality was fantastic. The mic gain adjustment was a little skewed low so I had to really crank it up to get good levels out of my mic, but even in that position the channel was jet black.  The controls were great, the feel was great, it was all great. Their built-in USB interface, much like all built-in USB interfaces at this price-tier, was a real garbage fire. I have no doubt these smaller mixers without the USB hardware will sound magnificent. I almost talked myself into keeping the Alto board and adding another audio interface, but I got indignant about their lack of fucks given to the digital interface and decided they could go straight to hell.
 
 ##### Mackie ProFX4v2 (~$120)
-![Mackie ProFX4v2](https://images-na.ssl-images-amazon.com/images/I/91xjLU2FcDL._SL1500_.jpg)
+![Mackie ProFX4v2](https://images-na.ssl-images-amazon.com/images/I/91xjLU2FcDL._SL1500_.jpg){:width="400px"}
 
 [Product Family Page](http://mackie.com/products/profxv2-series) | [Amazon](https://smile.amazon.com/Mackie-PROFX4V2-4-Channel-Compact-Effects/dp/B00VUU702A/) | [Guitar Center](http://www.guitarcenter.com/Mackie/ProFX4v2-4-Channel-Professional-FX-Mixer.gc)
 
@@ -45,7 +45,7 @@ Mackie. They're a big name, particularly in gigging/travel gear. They're known t
 ElFurbe's Editorial: Mackie ProFX pre-amps are great. They're not as good as Mackie's Onyx line, but they're dramatically superior to Behringer's Xenyx monstrosities. I almost test drove one of their ProFX8v2 [hybrids](#hybrid-mixers) but the nice man at Guitar Center told me he'd had several returns on that specific model, so I decided to skip it entirely. Also the shape of the faders is odd. Not, like, "don't buy it" odd, but odd enough I noticed it.
 
 ##### Soundcraft EPM8 (~$250)
-![Soundcraft EPM8](https://adn.harmanpro.com/product_attachments/product_attachments/1985_1422315863/EPM8-Top_original.jpg)
+![Soundcraft EPM8](https://adn.harmanpro.com/product_attachments/product_attachments/1985_1422315863/EPM8-Top_original.jpg){:width="400px"}
 
 [Product Page](https://www.soundcraft.com/en/products/epm8) | [Amazon](https://smile.amazon.com/Soundcraft-High-Performance-8-channel-Audio-Mixer/dp/B003TSEFKG/) | [Guitar Center](http://www.guitarcenter.com/Soundcraft/EPM8-8-Channel-Multi-format-Mixer.gc)
 
@@ -68,7 +68,7 @@ These are generally analog mixers with built-in digital audio interfaces. The qu
 #### Current Model Products
 
 ##### Behringer Q502USB (~$60)
-![Behringer Q502USB](https://media.music-group.com/media/PLM/data/images/products/P0ALL/1800Wx1800H/Q502USB_P0ALL_Right_L.png?)
+![Behringer Q502USB](https://media.music-group.com/media/PLM/data/images/products/P0ALL/1800Wx1800H/Q502USB_P0ALL_Right_L.png?){:width="400px"}
 
 [Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/Q802USB/p/P0ALM) | [Amazon](https://smile.amazon.com/Behringer-Q502USB-Xenyx/dp/B00CTKI10A/) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-Q502USB-Mixer.gc)
 
@@ -77,7 +77,7 @@ The Bare Minimum, Plus. It's the same mixer as the 502, but with a cheap USB int
 ElFurbe Says: I still hate the microphone pre-amps, I wouldn't buy it. There are bigger/better Behringer mixers in the Xenyx line more comparable to the Alto 802 and Mackie ProFX8v2, but damn, man. Just buy one of those two, don't bother. Either go with this because you want to spend the least money possible, or get some other brand.
 
 ##### Alto Professional Live 802 (~$230)
-![Alto Professional Live 802](https://www.djkit.com/images/products/large/alto-view-live802.jpg)
+![Alto Professional Live 802](https://www.djkit.com/images/products/large/alto-view-live802.jpg){:width="400px"}
 
 [Product Page](https://www.altoproaudio.com/products/live-802) | [Amazon](https://smile.amazon.com/Alto-Professional-Live-802-8-Channel/dp/B00HG8WOCQ) | [Guitar Center](http://www.guitarcenter.com/Alto/LIVE-802-8-Channel-2-Bus-Mixer.gc)
 
@@ -86,7 +86,7 @@ This is a pretty big step up, I'll grant you. This has 6 mic inputs with two com
 ElFurbe Says: This is the board I almost kept, but the USB interface hummed. There was a hum. I could not make it go away. I believe it was related to trying to cajole it into using the USB interface both ways, but who knows. I decided if they couldn't get a 2i2o USB interface right, they didn't deserve my money. I believe Mel bought this board and uses it, but I'm not sure.
 
 ##### Mackie ProFX8v2 (~$200)
-![Mackie ProFX8v2](https://images-na.ssl-images-amazon.com/images/I/A1Ap5XVq30L._SL1500_.jpg)
+![Mackie ProFX8v2](https://images-na.ssl-images-amazon.com/images/I/A1Ap5XVq30L._SL1500_.jpg){:width="400px"}
 
 [Product Family Page](http://mackie.com/products/profxv2-series) | [Amazon](https://smile.amazon.com/Mackie-PROFX8V2-8-Channel-Compact-Effects/dp/B00VUU77XW/) | [Guitar Center](http://www.guitarcenter.com/Mackie/ProFX8v2-8-Channel-Professional-FX-Mixer-with-USB.gc)
 
@@ -100,21 +100,21 @@ True digital mixers are weird as hell. Basically they're just a giant control su
 #### Current Model Products
 
 ##### Mackie ProDX4 (~$180)
-![Mackie ProDX4](http://mackie.com/sites/default/files/styles/model_img/public/prodx4_3qtr_left_android2model.png?itok=b_7PCOMO)
+![Mackie ProDX4](http://mackie.com/sites/default/files/styles/model_img/public/prodx4_3qtr_left_android2model.png?itok=b_7PCOMO){:width="400px"}
 
 [Product Family Page](http://mackie.com/products/prodx-series) | [Amazon](https://smile.amazon.com/Mackie-ProDX4-4-Channel-Wireless-Digital/dp/B01B1JHTGG/) | [Guitar Center](http://www.guitarcenter.com/Mackie/ProDX4-4-Channel-Wireless-Digital-Mixer.gc)
 
 There's also a ProDX8 with more inputs. Why even do thing this is ugh.
 
 ##### Behringer X18 (~$450)
-![Behringer X18](https://media.music-group.com/media/PLM/data/images/products/P0AWZ/1800Wx1800H/X18_P0AWZ_Right_L.png?)
+![Behringer X18](https://media.music-group.com/media/PLM/data/images/products/P0AWZ/1800Wx1800H/X18_P0AWZ_Right_L.png?){:width="400px"}
 
 [Product Page](https://www.music-group.com/Categories/Behringer/Mixers/Digital-Mixers/X18/p/P0AWZ) | [Amazon](https://smile.amazon.com/Behringer-X18-BEHRINGER-X-AIR/dp/B00TY2X188/) | [Guitar Center](http://www.guitarcenter.com/Behringer/X-AIR-X18-Digital-Desktop-Mixer.gc)
 
 I don't know why.
 
 ##### Mackie DL806L (~$500)
-![Mackie DL806L](http://mackie.com/sites/default/files/styles/model_img/public/models_images_template_dl806_mf4.jpg?itok=U_e8KybE)
+![Mackie DL806L](http://mackie.com/sites/default/files/styles/model_img/public/models_images_template_dl806_mf4.jpg?itok=U_e8KybE){:width="400px"}
 
 [Product Family Page](http://mackie.com/products/dl1608-dl806) | [Amazon](https://smile.amazon.com/Mackie-DL806L-8-channel-Digital-Lightning/dp/B00JLYK5BK/) | [Guitar Center](http://www.guitarcenter.com/Mackie/DL806L-8-channel-Digital-Live-Sound-Mixer-w-iPad-Control-Lightning.gc)
 
