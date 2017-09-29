@@ -1,7 +1,7 @@
 # Microphones
 A good mic is important to getting good sound from your mouth hole to the jerks on the other end of the internet. You can spend lots of money on a microphone but there are diminishing returns pretty rapidly above ~$100 and you'll likely need higher-grade interfaces and mixers to get real value out of it and in the end you're encoding to MP3 for streaming so basically what I'm getting at is this: don't splurge on the microphone, just get a good one and you'll be fine.
 
-In terms of the mechanical method they use to capture sound, there are a few sorts of mics to consider. Note this list is not exhaustive and only includes the relevant sorts for our purposes here.
+In terms of the mechanical method they use to capture sound, there are really only two sorts of mics to consider.
   - [Dynamic](#dynamic)
   - [Condenser](#condenser)
   
@@ -15,7 +15,7 @@ Dynamic mics are probably the kind you're most familiar with. Due to their parti
 #### Current Model products
 
 ##### Shure SM58-LC Vocal (~$100)
-![Shure SM58-LC Vocal](https://images-na.ssl-images-amazon.com/images/I/71bMMq-D1LL._SL1500_.jpg)
+![Shure SM58-LC Vocal](https://images-na.ssl-images-amazon.com/images/I/71bMMq-D1LL._SL1500_.jpg){:width="400px"}
 
 [Product Page](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone) | [Amazon](https://smile.amazon.com/Shure-SM58-LC-Cardioid-Dynamic-Microphone/dp/B0179T2CM8) | [Guitar Center](http://www.guitarcenter.com/Shure/SM58-Dynamic-Handheld-Vocal-Microphone.gc)
 
