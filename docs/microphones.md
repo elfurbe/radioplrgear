@@ -15,7 +15,7 @@ Dynamic mics are probably the kind you're most familiar with. Due to their parti
 #### Current Model products
 
 ##### Shure SM58-LC Vocal (~$100)
-![Shure SM58-LC Vocal](https://images-na.ssl-images-amazon.com/images/I/71bMMq-D1LL._SL1500_.jpg){:width="400px"}
+![Shure SM58-LC Vocal](https://images-na.ssl-images-amazon.com/images/I/71bMMq-D1LL._SL1500_.jpg){:height="400px"}
 
 [Product Page](http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone) | [Amazon](https://smile.amazon.com/Shure-SM58-LC-Cardioid-Dynamic-Microphone/dp/B0179T2CM8) | [Guitar Center](http://www.guitarcenter.com/Shure/SM58-Dynamic-Handheld-Vocal-Microphone.gc)
 
@@ -24,7 +24,7 @@ The myth. The legend. The Shure SM58 is perhaps, pound for pound, the greatest m
 ElFurbe Says: If you don't want to think about this at all even a little, buy this microphone. It will do exactly what you think it should. You will never regret it. You will never be disappointed in it. You will never break it. This is a 100% no-brainer choice unless you really know what you're doing or you really want to experiment with other mics because you already have or have used this one. If neither of those things is true, you're doing it wrong.
 
 ##### Shure SM48-LC Vocal (~$50)
-![Shure SM48-LC Vocal](https://images-na.ssl-images-amazon.com/images/I/71MJk9T0aJL._SL1500_.jpg){:width="400px"}
+![Shure SM48-LC Vocal](https://images-na.ssl-images-amazon.com/images/I/71MJk9T0aJL._SL1500_.jpg){:height="400px"}
 
 [Product Page](http://www.shure.com/americas/products/microphones/sm/sm48-vocal-microphone) | [Amazon](https://smile.amazon.com/dp/B0002D0HY4/) | [Guitar Center](http://www.guitarcenter.com/Shure/SM48-Cardioid-Dynamic-Vocal-Microphone.gc)
 
@@ -33,7 +33,7 @@ So, here's the thing. Everything said above about the [SM58](#shure-sm58-lc-voca
 ElFurbe Says: Will you notice the difference between the SM48 and the SM58? Probably not. But when this SM48 breaks or gives you trouble or you're recording something and you wish it sounded a little better, I want you to think about why you didn't just spend the extra money up front for the SM58.
 
 ##### AKG D5 (~$100)
-![AKG D5](https://images-na.ssl-images-amazon.com/images/I/71p85%2BPBBnL._SL1500_.jpg){:width="400px"}
+![AKG D5](https://images-na.ssl-images-amazon.com/images/I/71p85%2BPBBnL._SL1500_.jpg){:height="400px"}
 
 [Product Page](https://www.akg.com/Microphones/Dynamic%20Microphones/D5.html) | [Amazon](https://smile.amazon.com/AKG-D5-Vocal-Dynamic-Microphone/dp/B000S5JKRQ) | [Guitar Center](http://www.guitarcenter.com/AKG/D5-Supercardioid-Handheld-Dynamic-Microphone.gc)
 
@@ -47,7 +47,7 @@ Condenser mics are the second most popular type. They're more typically found in
 #### Current Model products
 
 ##### AKG P120 (~$100)
-![AKG P120](https://images-na.ssl-images-amazon.com/images/I/81GXGC-gUtL._SL1500_.jpg){:width="400px"}
+![AKG P120](https://images-na.ssl-images-amazon.com/images/I/81GXGC-gUtL._SL1500_.jpg){:height="400px"}
 
 [Product Page](http://www.akg.com/Microphones/Condenser%20Microphones/P120_.html?dwvar_P120___color=Black#start=1) | [Amazon](https://smile.amazon.com/AKG-P120-High-Performance-Recording-Microphone/dp/B00M9CUOKI) | [Guitar Center](http://www.guitarcenter.com/AKG/P120-Project-Studio-Condenser-Microphone.gc)
 
@@ -70,7 +70,7 @@ ElFurbe Says: I've never used one of these, I'm too much of a sperg to trust the
 #### Current Products
 
 ##### Blue Yeti (~$125)
-![Blue Yeti](https://images-na.ssl-images-amazon.com/images/I/7131%2Bx9eTGL._SL1500_.jpg){:width="400px"}
+![Blue Yeti](https://images-na.ssl-images-amazon.com/images/I/7131%2Bx9eTGL._SL1500_.jpg){:height="400px"}
 
 [Product Page](http://www.bluemic.com/products/yeti/) | [Amazon](https://smile.amazon.com/Blue-Yeti-USB-Microphone-Blackout/dp/B00N1YPXW2)
 
