@@ -60,7 +60,7 @@ ElFurbe Says: This is the mic I have. I love it. I, personally, would not trade 
   - Sonically picky at an OCD level
   - Fucking insufferable about getting weird things instead of what everyone else gets
 
-Those factors create a strong case for getting this more fussy/less rugged option over the SM58. Should you follow me into this void, up to you.
+Those factors create a strong case for getting this more fussy/less rugged option over the SM58. Should you follow me into this void? Up to you.
 
 ## USB
 USB mics are basically microphone/[interface](interfaces.md) combination products. They can be all you need to get going, but as a rule of thumb, you'll trade some amount of audio quality and flexibility to get that convenience.

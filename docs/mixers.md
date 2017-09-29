@@ -86,7 +86,7 @@ This is a pretty big step up, I'll grant you. This has 6 mic inputs with two com
 ElFurbe Says: This is the board I almost kept, but the USB interface hummed. There was a hum. I could not make it go away. I believe it was related to trying to cajole it into using the USB interface both ways, but who knows. I decided if they couldn't get a 2i2o USB interface right, they didn't deserve my money. I believe Mel bought this board and uses it, but I'm not sure.
 
 ##### Mackie ProFX8v2 (~$200)
-![Mackie ProFX8v2](https://media.sweetwater.com/images/items/750/ProFX8v2-large.jpg)
+![Mackie ProFX8v2](https://images-na.ssl-images-amazon.com/images/I/A1Ap5XVq30L._SL1500_.jpg)
 
 [Product Family Page](http://mackie.com/products/profxv2-series) | [Amazon](https://smile.amazon.com/Mackie-PROFX8V2-8-Channel-Compact-Effects/dp/B00VUU77XW/) | [Guitar Center](http://www.guitarcenter.com/Mackie/ProFX8v2-8-Channel-Professional-FX-Mixer-with-USB.gc)
 
