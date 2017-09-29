@@ -39,7 +39,7 @@ ElFurbe Says: Will you notice the difference between the SM48 and the SM58? Prob
 
 This is the AKG alternative to the Shure SM58. Generally speaking it tends to roll off a little less on the high and low end than the SM58. Otherwise, pretty much same-same.
 
-ElFurbe Says: Is it probably just as good and potentially better in some respects? Yes. Should you get it instead of the SM58? Nope. Nope nope nope.
+ElFurbe Says: Is it probably just as good as the SM58 and potentially better in some respects? Yes. Should you get it instead of the SM58? Nope. Nope nope nope.
 
 ## Condenser
 Condenser mics are the second most popular type. They're more typically found in recording studios than live performances and on the whole tend to be more expensive, more complex and less sturdy. On the plus side, they are generally more sensitive and capture better quality audio with more dynamic range and better frequency extension. If you feel like you know enough not to be buying the Shure SM58, this is the category you should be looking at next. Do note, these microphones will always require power, either Phantom Power from your mixer or some sort of internal battery power, depending on the microphone.
