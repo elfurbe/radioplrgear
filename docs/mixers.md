@@ -20,10 +20,7 @@ This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on 
 ##### Behringer 502 (~$40)
 ![Behringer 502](https://media.music-group.com/media/PLM/data/images/products/P0576/1800Wx1800H/502_P0576_Right_L.png?)
 
-[Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) |
-[Amazon](https://smile.amazon.com/Behringer-502-BEHRINGER-XENYX/dp/B000J5UEGQ) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-502-Mixer.gc)
-
-[Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) | [Amazon](#test) | [Guitar Center](#test)
+[Product Page](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/502/p/P0576) | [Amazon](https://smile.amazon.com/Behringer-502-BEHRINGER-XENYX/dp/B000J5UEGQ) | [Guitar Center](http://www.guitarcenter.com/Behringer/Xenyx-502-Mixer.gc)
 
 AKA The Bare Minimum. One mic input, all knobs, low complication. At this control level you're probably able to do what you need to do with just an [interface](interfaces.md), but maybe you want this anyway to keep the mixing separate. Several Radio PLR DJs use this mixer or its slightly larger brethren ([802](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/802/p/P0575), [1202](http://www.music-group.com/Categories/Behringer/Mixers/Analog-Mixers/1202/p/P0573), etc). The only difference is more inputs.
 
