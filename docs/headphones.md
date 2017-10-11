@@ -47,7 +47,7 @@ Don't buy on-ears. I'm not even listing any. They're dumb. Their only potential 
 ## In-Ear
 
 ### Earbuds
-Do.👏Not.👏Ever.👏Buy.👏Earbuds.👏
+Do.👏 Not.👏 Ever.👏 Buy.👏 Earbuds.👏
 
 **_DON'T._**
 
