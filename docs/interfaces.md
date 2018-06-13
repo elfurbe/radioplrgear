@@ -42,6 +42,15 @@ M-Audio has long been a favorite of digital musicians as they were very early to
 
 ElFurbe Says: Don't fucking buy this. Buy the god damned Focusrite. Why are you still reading, just buy the Focusrite.
 
+##### Mackie Onyx Producer 2•2 (~$150)
+![Mackie Onyx Producer 2•2](http://mackie.com/sites/default/files/styles/model_img/public/producer_0.jpg?itok=TWn9qpRw){:width="400px"}
+
+[Product Page](http://mackie.com/products/onyx-series-usb-interfaces) | [Amazon](https://smile.amazon.com/Mackie-Onyx-Producer-2-2-Interface/dp/B076646D8H/) | [Guitar Center](https://www.guitarcenter.com/Mackie/Onyx-Producer-2x2-USB-Audio-Interface-with-MIDI.gc)
+
+Mackie finally got into this USB interface game for real with the Onyx Producer 2•2. It's comparable in all meaningful ways with the Focusrite 2i2 and the PreSonus Studio 26. It's about the same price as the Focusrite, which is as much as you should ever pay since the Focusrite is the thing you should probably buy. If all the other Mackie Onyx gear is any indication, this probably sounds great but probably not any better than anything else at this price point.
+
+ElFurbe Says: I swear, how did you even make it all the way down here? Did you think there might be a secret if you just stuck with it? Well, you're right. There is. This is the only interface I'm even mildly tempted to recommend instead of the Focusrite and that is purely because I _love_ the Onyx mic preamps. I love them. They make me so very happy. As I've never used this interface, I can't say how it is to work with. I have used the Focusrite and it's the bees, but I get along very well with my Mackie gear so I have no reason to believe this is bad. In fact, I'd wager it's very good. So maybe buy this. I mean, probably just buy the Focusrite, but maybe. Maybe this. _MAYBE_.
+
 ##### Mackie Onyx Blackjack (~$100)
 ![Mackie Onyx Blackjack](https://www.thomann.de/pics/bdb/252197/8692974_800.jpg){:width="400px"}
 
