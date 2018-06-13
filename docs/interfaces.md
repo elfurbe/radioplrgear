@@ -24,6 +24,15 @@ Focusrite is the player to beat in the USB interface world. They have rapidly be
 
 ElFurbe Says: I should've gotten this. I didn't, but I should have. It is better in every way than the thing I got, except the inputs are in the front and I wanted them in the back. I gave up a lot on paper to get that ergonomic itch scratched, but I do what I want. You should not do what I did, you should buy this. I am not even kidding, everything else on this page is pretty much an also-ran. There is a slightly lower-end version of this called the [Solo](https://smile.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56CM) that may be adequate if you only need one microphone and nothing else. I started with one but it's not as flexible as the 2i2 and I outgrew it when I went to my mixer. It's worth considering, but the 2i2 is a better bet long-term.
 
+##### PreSonus Studio 26 (~$175)
+![PreSonus Studio 26](https://pae-web.presonusmusic.com/uploads/products/media/images/presonus-studio_26-front_big.jpg){:width="400px"}
+
+[Product Page](https://www.presonus.com/products/Studio-26) | [Amazon](https://smile.amazon.com/PreSonus-Studio-26-Audio-Interface/dp/B01N126D3W/) | [Guitar Center](https://www.guitarcenter.com/Presonus/Studio26-2x4-USB-20-24-bit-192-kHz-Audio-Interface.gc)
+
+You will find some audiophile in any professional setting that thinks PreSonus is a magical audio wizard company with some secret sauce that sets them apart. That might have been true at some point in the past, but today, they're at best among a pack of legitimate competitors at every level. PreSonus makes good gear. This will sound good. Will it sound better than anything comparable? No. It won't.
+
+ElFurbe Says: Fuckin' hell. Just stop reading, buy the Focusrite. Why are you doing this to yourself?
+
 ##### M-Audio M-Track 2X2M (~$150)
 ![M-Audio M-Track 2X2M](http://www.m-audio.com/assets/images/microsite/m-track2x2M/features/2.jpg){:width="400px"}
 
