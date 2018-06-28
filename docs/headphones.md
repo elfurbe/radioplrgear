@@ -35,11 +35,14 @@ All of these driver types have pros and cons but the general rules of thumb are:
 
 #### Current Model products
 
-##### A Headphone
-![](){:height="400px"}
+##### Audio-Technica ATH-M50x (~$150)
+![Audio-Technica ATH-M50x](https://cdn.audio-technica.com/cms/resource_library/product_images/1b9971bc0cbdad3d/orig/ath_m50x_1_sq.jpg){:width="400px"}
 
-[Product Page]() | [Amazon]() | [Guitar Center]()
+[Product Page](https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html) | [Amazon](https://www.amazon.com/Audio-Technica-ATH-M50x-Professional-Monitor-Headphones/dp/B00HVLUR86) | [Guitar Center](https://www.guitarcenter.com/Audio-Technica/ATH-M50xWH-Closed-Back-Professional-Studio-Monitor-Headphones-Black-1384185555119.gc)
 
+The Audio-Technica ATH-M50x is the latest revision of the long respected ATH-M50. This is a headphone you could well find in an actual recording studio without the hideous price tag of everything else you'd find in there. They're really quite good, they play well from most any source, generally pretty even with a very mild bass boost and crisp high end. The soundstage is very nice due to the angled driver placement; good width, good separation. The most common complaints are too much sharpness on the high end and issues with headband comfort.
+
+ElFurbe Says: I own a set of these. I got a little bluetooth nubbin ([BAL-M50X](https://smile.amazon.com/Bluetooth-Adapter-and-Amplifier-BAL-M50X/dp/B01MFFH54C/)) for them so I could have some wireless cans for the times I'm wandering around or working in the data center and want some tunes. They sound just fine. They're better cabled to anything than with the bluetooth adapter but overall they're better in terms of accuracy and overall quality than pretty well anything you'd buy from a hip kid brand. They're not so good you'll be ruined for cheap headphones for life but they're good enough you'll probably be able to tell they're good. This is definitely Sufficiently Good for broadcasting purposes.
 
 ## On-Ear
 Don't buy on-ears. I'm not even listing any. They're dumb. Their only potential value is portability but you can get over-ears that sound better which are sufficiently portable. On-ears are wrong. Don't be wrong.
