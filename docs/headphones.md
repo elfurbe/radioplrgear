@@ -44,6 +44,15 @@ The Audio-Technica ATH-M50x is the latest revision of the long respected ATH-M50
 
 ElFurbe Says: I own a set of these. I got a little bluetooth nubbin ([BAL-M50X](https://smile.amazon.com/Bluetooth-Adapter-and-Amplifier-BAL-M50X/dp/B01MFFH54C/)) for them so I could have some wireless cans for the times I'm wandering around or working in the data center and want some tunes. They sound just fine. They're better cabled to anything than with the bluetooth adapter but overall they're better in terms of accuracy and overall quality than pretty well anything you'd buy from a hip kid brand. They're not so good you'll be ruined for cheap headphones for life but they're good enough you'll probably be able to tell they're good. This is definitely Sufficiently Good for broadcasting purposes.
 
+##### Sony MDR-7506 (~$100)
+![Sony MDR-7506](https://images-na.ssl-images-amazon.com/images/I/81TzTAx8weL._SX425_.jpg){:width="400px"}
+
+[Product Page](https://pro.sony/ue_US/products/headphones/mdr-7506) | [Amazon](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E) | [Guitar Center](https://www.guitarcenter.com/Sony/MDR-7506-Professional-Headphones-1274115027504.gc)
+
+The Sony MDR-7506 is another class standby of recording studios. They're cheaper than the ATH-M50x, but also a little worse so you're getting what you pay for. But! They do sound alright. Much like the M50x they're quite flat and easy to drive from most any source.
+
+ElFurbe Says: I've only heard these a handful of times, I was never terribly impressed but neither was I terribly disappointed. If the M50x is just a little more than you want to spend, this is a very reasonable alternative but I'd go with the M50x over these otherwise.
+
 ## On-Ear
 Don't buy on-ears. I'm not even listing any. They're dumb. Their only potential value is portability but you can get over-ears that sound better which are sufficiently portable. On-ears are wrong. Don't be wrong.
 
