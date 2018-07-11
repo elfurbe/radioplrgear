@@ -76,3 +76,12 @@ ElFurbe Says: I've never used one of these, I'm too much of a sperg to trust the
 [Product Page](http://www.bluemic.com/products/yeti/) | [Amazon](https://smile.amazon.com/Blue-Yeti-USB-Microphone-Blackout/dp/B00N1YPXW2)
 
 The Blue Yeti is a podcast gear legend. It solves many problems well, it's good quality, it's got a good reputation among hardened users and it's reasonably priced. If you don't want to buy ANYTHING else and get right into recording your voice for the streaming, this is that product.
+
+##### Audio-Technica ATR2100-USB (~$80)
+![Audio-Technica ATR2100-USB](https://www.audio-technica.com/cgi-bin/dump_file.pl?file=https://www.audio-technica.com/cms/resource_library/product_images/a01ed935117e2bdf/orig/atr2100_usb_2_sq.jpg){:height="400px"}
+
+[Product Page](https://www.audio-technica.com/cms/wired_mics/b8dd84773f83092c/) | [Amazon](https://smile.amazon.com/Audio-Technica-ATR2100-USB-Cardioid-Dynamic-Microphone/dp/B004QJOZS4/)
+
+I heard this one mentioned on a podcast. This is a nice compromise starter product. Allegedly it's a pretty decent mic with a built-in USB audio interface BUT ALSO it has an XLR on it so later, when you inevitably give in to the spirit of capitalism and buy your first of many dedicated USB audio interfaces, you can keep using the mic with it until you also feel the inexorable urge to buy more microphones as well.
+
+ElFurbe Says: A-T is good at microphones, I'd wager heavily that this sounds better than the Blue Yeti. We all know I'm never gonna buy it so we'll probably never know for sure.
