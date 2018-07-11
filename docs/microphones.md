@@ -1,4 +1,4 @@
-[Mixers](mixers.md) | [Interfaces](interfaces.md) | [Mics](microphones.md) | [Headphones](headphones.md)
+[Mixers](mixers.md) | [Interfaces](interfaces.md) | [Mics](microphones.md) | [Headphones](headphones.md) | [Software](software.md)
 # Microphones
 A good mic is important to getting good sound from your mouth hole to the jerks on the other end of the internet. You can spend lots of money on a microphone but there are diminishing returns pretty rapidly above ~$100 and you'll likely need higher-grade interfaces and mixers to get real value out of it and in the end you're encoding to MP3 for streaming so basically what I'm getting at is this: don't splurge on the microphone, just get a good one and you'll be fine.
 

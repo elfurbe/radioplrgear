@@ -1,8 +1,8 @@
-[Mixers](mixers.md) | [Interfaces](interfaces.md) | [Mics](microphones.md) | [Headphones](headphones.md)
+[Mixers](mixers.md) | [Interfaces](interfaces.md) | [Mics](microphones.md) | [Headphones](headphones.md) | [Software](software.md)
 # Mixers
 Generally speaking, a mixer will allow you to control the relative volume of different audio sources and output the combined signal. They come in a few flavors. The traditional [all-analog mixer](#analog-mixers), digital-analog [hybrid mixers](#hybrid-mixers), and pure [digital mixers](#digital-mixers). This section is specifically about mixers with dedicated hardware for mix control. You can find pure software mixers in the [software](software.md) section. All mixers will have some number of inputs and outputs, often some number of send/receive loops for off-board processing and some sort of controls in the form of faders and knobs to adjust various properties of the sound.
 
-## Analog Mixers
+## Analog Mixers 
 This is 100% your daddy's mixer. Sound comes in on audio cables, it goes out on audio cables. All mixing is done in the analog domain and digitizing the output is your problem to solve with an [interface](interfaces.md). Pure analog mixers are less common now at the lower end of the price spectrum, but there are still purists that will accept nothing less, one of which is noted pedantic dbag ElFurbe. Things to concern yourself with on an analog mixer:
  - Input and output types/channels:
    - How many microphones do you need to run at once?

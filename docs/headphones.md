@@ -1,4 +1,4 @@
-[Mixers](mixers.md) | [Interfaces](interfaces.md) | [Mics](microphones.md) | [Headphones](headphones.md)
+[Mixers](mixers.md) | [Interfaces](interfaces.md) | [Mics](microphones.md) | [Headphones](headphones.md) | [Software](software.md)
 # Headphones
 Fuckin' headphones. Are they super important to your streaming setup, no. They really aren't. You defintely want to use headphones while you're recording for feedback reasons, but do they need to be particularly good? No, they really don't. You'll just want something that keeps the sound in your ears and not feeding back into the microphone. Basically anything you have probably meets that criteria in practical terms, even the shit crap garbage that came in the box with whatever phone you use is probably _sufficient_, it'll just sound very bad. You do not need to read the rest of this if you don't care about it sounding good in your ears, just definitely use headphones.
 
@@ -49,7 +49,7 @@ ElFurbe Says: I own a set of these. I got a little bluetooth nubbin ([BAL-M50X](
 
 [Product Page](https://pro.sony/ue_US/products/headphones/mdr-7506) | [Amazon](https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E) | [Guitar Center](https://www.guitarcenter.com/Sony/MDR-7506-Professional-Headphones-1274115027504.gc)
 
-The Sony MDR-7506 is another class standby of recording studios. They're cheaper than the ATH-M50x, but also a little worse so you're getting what you pay for. But! They do sound alright. Much like the M50x they're quite flat and easy to drive from most any source.
+The Sony MDR-7506 is another classic standby of recording studios. They're cheaper than the ATH-M50x, but also a little worse so you're getting what you pay for. But! They do sound alright. Much like the M50x they're quite flat and easy to drive from most any source.
 
 ElFurbe Says: I've only heard these a handful of times, I was never terribly impressed but neither was I terribly disappointed. If the M50x is just a little more than you want to spend, this is a very reasonable alternative but I'd go with the M50x over these otherwise.
 
