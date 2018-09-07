@@ -16,7 +16,7 @@ Things to concern yourself with in a USB interface:
 #### Current Model products
 
 ##### Focusrite Scarlett 2i2 (~$150)
-![Focusrite Scarlett 2i2](https://us.focusrite.com/sites/default/files/resources/image/Scarlett-2i2_front-elevated.jpg){:width="400px"}
+![Focusrite Scarlett 2i2](https://focusrite.com/sites/focusrite/files/scarlett-2i2-elevated.jpg){:width="400px"}
 
 [Product Page](https://us.focusrite.com/usb-audio-interfaces/scarlett-2i2) | [Amazon](https://smile.amazon.com/Focusrite-Scarlett-Audio-Interface-Tools/dp/B01E6T56EA) | [Guitar Center](http://www.guitarcenter.com/Focusrite/Scarlett-2i2-2nd-Generation-USB-Audio-Interface.gc)
 
