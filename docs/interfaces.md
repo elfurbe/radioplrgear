@@ -51,6 +51,12 @@ Mackie finally got into this USB interface game for real with the Onyx Producer 
 
 ElFurbe Says: I swear, how did you even make it all the way down here? Did you think there might be a secret if you just stuck with it? Well, you're right. There is. This is the only interface I'm even mildly tempted to recommend instead of the Focusrite and that is purely because I _love_ the Onyx mic preamps. I love them. They make me so very happy. As I've never used this interface, I can't say how it is to work with. I have used the Focusrite and it's the bees, but I get along very well with my Mackie gear so I have no reason to believe this is bad. In fact, I'd wager it's very good. So maybe buy this. I mean, probably just buy the Focusrite, but maybe. Maybe this. _MAYBE_.
 
+ElFurbe ALSO SAYS: UPDATE! I bought this cause I wanted to. That's it. My Blackjack is still working like a champ, but I wanted one with inputs in the front for other reasons and I figured now was my chance. Seems to work exactly as one might expect. There are a couple small peccadillos.
+
+One, the HI-Z and +48V _buttons_ look like they're just _lights_ but they're buttons. Two, the Input/DAW mixer feature is a little, I don't know, weird. It's, like, sort of a way to do direct monitoring of the two inputs at the same time as the USB input I guess, but it's just, weird. It mixes the two together, as you'd expect, which means you can't clearly hear what either of them actually sound like. I don't know, I think a gain/volume knob for input from USB would've been equally useful if you're trying to direct monitor everything from the interface, but what do I know, I'm just some asshole on the internet.
+
+I haven't A/B tested it against my Blackjack or my Onyx 1220 for mic recording quality, but it sounded good to me subjectively out of the box, so it's got that going for it. Updating _MAYBE_ to _Provisionally Equally Good Choice_.
+
 ##### Mackie Onyx Blackjack (~$100)
 ![Mackie Onyx Blackjack](https://www.thomann.de/pics/bdb/252197/8692974_800.jpg){:width="400px"}
 
